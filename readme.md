@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working as a Software Engineer
-- 🌱 I like learning new things everyday
+- 🌱 I like learning new things
 - 💬 Ask me about something cool ?!
 - 📫 How to reach me: bhabajyotikalita66@gmail.com
 - ⚡ Fun fact: MyDoom is the Most Expensive Computer Virus in History. 🤖
