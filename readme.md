@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I like learning new things everyday
 - 💬 Ask me about something cool ?!
 - 📫 How to reach me: bhabajyotikalita66@gmail.com
-- ⚡ Fun fact: MyDoom is the Most Expensive Computer Virus in History. Also known as Novarg, this malware is technically a “worm,” spread by mass emailing. 🤖
+- ⚡ Fun fact: MyDoom is the Most Expensive Computer Virus in History. 🤖
 
 
 ![image](https://github-readme-stats.vercel.app/api?username=BhabajyotiKalita&show_icons=true&count_private=true&theme=dark)
