@@ -3,7 +3,7 @@
 
 
 <!--
-**Prajnadeep/Prajnadeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bhabajyoti/Bhabajyoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Android
-- 🌱 I’m currently learning Architectural design patterns
+- 🔭 I’m currently working as NOC Admin
+- 🌱 I’m currently learning DevOps
 - 💬 Ask me about something cool ?!
-- 📫 How to reach me: pragya.2366@gmail.com
+- 📫 How to reach me: bhabajyotikalita66@gmail.com
 - ⚡ Fun fact: Android’s logo isn’t actually called Android. Google unofficially calls him Bugdroid 🤖
 
 
