@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working as Software Engineer
-- 🌱 I’m currently learning new things everyday
+- 🔭 I’m currently working as a Software Engineer
+- 🌱 I like learning new things everyday
 - 💬 Ask me about something cool ?!
 - 📫 How to reach me: bhabajyotikalita66@gmail.com
-- ⚡ Fun fact: MyDoom is the Most Expensive Computer Virus in History 🤖
+- ⚡ Fun fact: MyDoom is the Most Expensive Computer Virus in History. Also known as Novarg, this malware is technically a “worm,” spread by mass emailing. 🤖
 
 
 ![image](https://github-readme-stats.vercel.app/api?username=BhabajyotiKalita&show_icons=true&count_private=true&theme=dark)
