@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working as a Software Engineer
+- 🔭 I’m currently working as a System Engineer
 - 🌱 I like learning new things
 - 💬 Ask me about something cool ?!
 - 📫 How to reach me: bhabajyotikalita66@gmail.com
