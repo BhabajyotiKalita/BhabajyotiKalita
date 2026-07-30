@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: MyDoom is the Most Expensive Computer Virus in History. 🤖
 
 
-![image](https://github-readme-stats.vercel.app/api?username=BhabajyotiKalita&show_icons=true&count_private=true&theme=dark)
 
 ![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![image](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
